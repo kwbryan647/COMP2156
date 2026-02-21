@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/kwbryan647/COMP2156/issues"
   },
-  "homepage": "https://bryankworld.github.io/w2026_comp2156",
+  "homepage": "https://kwbryan647.github.io/COMP2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
